@@ -1,4 +1,4 @@
-package palindromePermutation
+package palindrome_permutation
 
 import (
 	"testing"

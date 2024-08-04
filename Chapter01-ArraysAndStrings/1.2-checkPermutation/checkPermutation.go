@@ -1,4 +1,4 @@
-package checkPermutation
+package check_permutation
 
 import (
 	"sort"

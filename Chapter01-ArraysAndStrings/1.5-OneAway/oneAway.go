@@ -1,4 +1,4 @@
-package oneAway
+package one_away
 
 import (
 	"math"
