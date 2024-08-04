@@ -19,5 +19,7 @@ _________________
 ## [Chapter 02 - Linked Lists](Chapter02-LinkedLists/)
 |  #  | **Question**               | Solution                 | Test                          |
 | --- | ------------------ | ------------------------ | ----------------------------- |
-| 1.1 | [**Remove Dups**](Chapter02-LinkedLists/2.1-RemoveDups/)           | [removeDups.go](Chapter02-LinkedLists/2.1-RemoveDups/removeDups.go)              | [removeDups_test.go](Chapter02-LinkedLists/2.1-RemoveDups/removeDups_test.go)              |
+| 2.1 | [**Remove Dups**](Chapter02-LinkedLists/2.1-RemoveDups/)           | [removeDups.go](Chapter02-LinkedLists/2.1-RemoveDups/removeDups.go)              | [removeDups_test.go](Chapter02-LinkedLists/2.1-RemoveDups/removeDups_test.go)              |
+| 2.2 | [**Return Kth To Last**](Chapter02-LinkedLists/2.2-ReturnKthToLast/)           | [returnKthToLast.go](Chapter02-LinkedLists/2.2-ReturnKthToLast/returnKthToLast.go)              | [returnKthToLast_test.go](Chapter02-LinkedLists/2.2-ReturnKthToLast/returnKthToLast_test.go)              |
+| 2.3 | [**Delete Middle Node**](Chapter02-LinkedLists/2.3-DeleteMiddleNode/)           | [deleteMiddleNode.go](Chapter02-LinkedLists/2.3-DeleteMiddleNode/deleteMiddleNode.go)              | [deleteMiddleNode_test.go](Chapter02-LinkedLists/2.3-DeleteMiddleNode/deleteMiddleNode_test.go)              |
 _________________
