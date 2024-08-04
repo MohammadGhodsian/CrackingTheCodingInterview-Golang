@@ -17,3 +17,7 @@ _________________
 | 1.9 | [**String Rotation**](Chapter01-ArraysAndStrings/1.9-StringRotation/)        | [stringRotation.go](Chapter01-ArraysAndStrings/1.9-StringRotation/stringRotation.go)        | [stringRotation_test.go](Chapter01-ArraysAndStrings/1.9-StringRotation/stringRotation_test.go)        |
 _________________
 ## [Chapter 02 - Linked Lists](Chapter02-LinkedLists/)
+|  #  | **Question**               | Solution                 | Test                          |
+| --- | ------------------ | ------------------------ | ----------------------------- |
+| 1.1 | [**Remove Dups**](Chapter02-LinkedLists/2.1-RemoveDups/)           | [removeDups.go](Chapter02-LinkedLists/2.1-RemoveDups/removeDups.go)              | [removeDups_test.go](Chapter02-LinkedLists/2.1-RemoveDups/removeDups_test.go)              |
+_________________
