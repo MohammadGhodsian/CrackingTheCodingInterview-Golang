@@ -5,4 +5,5 @@ Input: "Mr John Smith " J 13
 Output: "Mr%20J ohn%20Smith"
 
 
+`go test -v`
 ![Test Result](_testResult.png)

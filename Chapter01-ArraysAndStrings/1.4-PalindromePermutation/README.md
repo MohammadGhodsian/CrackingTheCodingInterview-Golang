@@ -7,4 +7,5 @@ Input: Tact Coa
 Output: True (permutations: "taco cat". "atco cta". etc.)
 
 
+`go test -v`
 ![Test Result](_testResult.png)

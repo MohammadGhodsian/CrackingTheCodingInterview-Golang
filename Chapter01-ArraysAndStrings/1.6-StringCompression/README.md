@@ -5,4 +5,5 @@ If the "compressed" string would not become smaller than the original string, yo
 You can assume the string has only uppercase and lowercase letters (a - z).
 
 
+`go test -v`
 ![Test Result](_testResult.png)

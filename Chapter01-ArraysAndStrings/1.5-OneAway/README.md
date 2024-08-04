@@ -7,4 +7,5 @@ pale, bale  -> true
 pale, bake  -> false
 
 
+`go test -v`
 ![Test Result](_testResult.png)
