@@ -3,7 +3,7 @@ Answers to the questions of the book "Cracking The Coding Interview 6th Edition"
 
 
 _________________
-## [Chapter 01 - Arrays and strings](Chapter01-ArraysAndStrings/)
+## [Chapter 01 - Arrays and Strings](Chapter01-ArraysAndStrings/)
 |  #  | **Question**               | Solution                 | Test                          |
 | --- | ---------------------- | ------------------------ | ----------------------------- |
 | 1.1 | [**Is Unique**](Chapter01-ArraysAndStrings/1.1-IsUnique/)              | [isUnique.go](Chapter01-ArraysAndStrings/1.1-IsUnique/isUnique.go)              | [isUnique_test.go](Chapter01-ArraysAndStrings/1.1-IsUnique/isUnique_test.go)              |
@@ -16,3 +16,4 @@ _________________
 | 1.8 | [**Zero Matrix**](Chapter01-ArraysAndStrings/1.8-ZeroMatrix/)            | [zeroMatrix.go](Chapter01-ArraysAndStrings/1.8-ZeroMatrix/zeroMatrix.go)            | [zeroMatrix_test.go](Chapter01-ArraysAndStrings/1.8-ZeroMatrix/zeroMatrix_test.go)            |
 | 1.9 | [**String Rotation**](Chapter01-ArraysAndStrings/1.9-StringRotation/)        | [stringRotation.go](Chapter01-ArraysAndStrings/1.9-StringRotation/stringRotation.go)        | [stringRotation_test.go](Chapter01-ArraysAndStrings/1.9-StringRotation/stringRotation_test.go)        |
 _________________
+## [Chapter 02 - Linked Lists](Chapter02-LinkedLists/)
