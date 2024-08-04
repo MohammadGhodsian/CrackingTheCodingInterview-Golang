@@ -5,3 +5,6 @@ pale, pIe   -> true
 pales, pale -> true 
 pale, bale  -> true 
 pale, bake  -> false
+
+
+![Test Result](_testResult.png)

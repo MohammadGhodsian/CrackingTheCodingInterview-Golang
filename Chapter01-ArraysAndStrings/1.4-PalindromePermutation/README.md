@@ -5,3 +5,6 @@ A permutation is a rearrangement of letters.The palindrome does not need to be l
 #### EXAMPLE
 Input: Tact Coa
 Output: True (permutations: "taco cat". "atco cta". etc.)
+
+
+![Test Result](_testResult.png)

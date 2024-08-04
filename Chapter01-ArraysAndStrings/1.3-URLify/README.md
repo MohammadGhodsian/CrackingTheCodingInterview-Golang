@@ -3,3 +3,6 @@ Write a method to replace all spaces in a string with '%20: You may assume that 
 #### EXAMPLE
 Input: "Mr John Smith " J 13
 Output: "Mr%20J ohn%20Smith"
+
+
+![Test Result](_testResult.png)
