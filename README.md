@@ -1,4 +1,4 @@
-# CrackingTheCodingInterview-Golang
+# Cracking The Coding Interview - Golang
 Answers to the questions of the book "Cracking The Coding Interview 6th Edition" in GoLang language
 
 
