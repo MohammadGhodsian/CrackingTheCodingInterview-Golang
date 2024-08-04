@@ -22,5 +22,9 @@ _________________
 | 2.1 | [**Remove Dups**](Chapter02-LinkedLists/2.1-RemoveDups/)           | [removeDups.go](Chapter02-LinkedLists/2.1-RemoveDups/removeDups.go)              | [removeDups_test.go](Chapter02-LinkedLists/2.1-RemoveDups/removeDups_test.go)              |
 | 2.2 | [**Return Kth To Last**](Chapter02-LinkedLists/2.2-ReturnKthToLast/)           | [returnKthToLast.go](Chapter02-LinkedLists/2.2-ReturnKthToLast/returnKthToLast.go)              | [returnKthToLast_test.go](Chapter02-LinkedLists/2.2-ReturnKthToLast/returnKthToLast_test.go)              |
 | 2.3 | [**Delete Middle Node**](Chapter02-LinkedLists/2.3-DeleteMiddleNode/)           | [deleteMiddleNode.go](Chapter02-LinkedLists/2.3-DeleteMiddleNode/deleteMiddleNode.go)              | [deleteMiddleNode_test.go](Chapter02-LinkedLists/2.3-DeleteMiddleNode/deleteMiddleNode_test.go)              |
-| 2.2 | [**Partition**](Chapter02-LinkedLists/2.4-Partition/)           | [partition.go](Chapter02-LinkedLists/2.4-Partition/partition.go)              | [partition_test.go](Chapter02-LinkedLists/2.4-Partition/partition_test.go)              |
+| 2.4 | [**Partition**](Chapter02-LinkedLists/2.4-Partition/)           | [partition.go](Chapter02-LinkedLists/2.4-Partition/partition.go)              | [partition_test.go](Chapter02-LinkedLists/2.4-Partition/
+partition_test.go)              |
+| 2.5 | [**Partition**](Chapter02-LinkedLists/2.5-SumLists/)           | [sumLists.go](Chapter02-LinkedLists/2.5-SumLists/sumLists.go)              | [sumLists_test.go](Chapter02-LinkedLists/2.5-SumLists/
+sumLists_test.go)              |
+
 _________________

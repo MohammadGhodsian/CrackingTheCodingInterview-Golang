@@ -13,6 +13,16 @@ func New(d int) *ListNode {
 	return n
 }
 
+// Length returns the length of the linked list
+func (head *ListNode) Length() int {
+	count := 0
+	for head != nil {
+		count++
+		head = head.Next
+	}
+	return count
+}
+
 // CreateList converts a slice of integers into a linked list.
 func CreateList(values []int) *ListNode {
 	if len(values) == 0 {
