@@ -18,7 +18,7 @@ func TestHasUniqueCharacters(t *testing.T) {
 
 	for _, tc := range testCases {
 		t.Run(tc.input, func(t *testing.T) {
-			actual := hasUniqueCharacters(tc.input)
+			actual := HasUniqueCharacters(tc.input)
 			if actual != tc.expected {
 				t.Errorf("hasUniqueCharacters(%q) = %v; expected %v", tc.input, actual, tc.expected)
 			}
@@ -40,7 +40,7 @@ func TestHasUniqueCharactersWithoutDataStructures(t *testing.T) {
 
 	for _, tc := range testCases {
 		t.Run(tc.input, func(t *testing.T) {
-			actual := hasUniqueCharactersWithoutDataStructures(tc.input)
+			actual := HasUniqueCharactersWithoutDataStructures(tc.input)
 			if actual != tc.expected {
 				t.Errorf("hasUniqueCharactersWithoutDataStructures(%q) = %v; expected %v", tc.input, actual, tc.expected)
 			}

@@ -9,8 +9,8 @@ Implement an algorithm to determine if a string has all unique characters.
 What if you cannot use additional data structures?
 */
 
-// hasUniqueCharacters checks if a string has all unique characters.
-func hasUniqueCharacters(s string) bool {
+// HasUniqueCharacters checks if a string has all unique characters.
+func HasUniqueCharacters(s string) bool {
 	// Create a map to keep track of characters we've seen.
 	seen := make(map[rune]bool)
 
@@ -28,8 +28,8 @@ func hasUniqueCharacters(s string) bool {
 	return true
 }
 
-// hasUniqueCharactersWithoutDataStructures checks if a string has all unique characters without using additional data structures.
-func hasUniqueCharactersWithoutDataStructures(s string) bool {
+// HasUniqueCharactersWithoutDataStructures checks if a string has all unique characters without using additional data structures.
+func HasUniqueCharactersWithoutDataStructures(s string) bool {
 	// Convert string to a slice of runes for sorting.
 	runes := []rune(s)
 
