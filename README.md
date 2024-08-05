@@ -35,7 +35,7 @@ _________________
 | 3.2 | [**Stack Min**](Chapter03-StacksAndQueues/3.2-StackMin/) | [stackMin.go](Chapter03-StacksAndQueues/3.2-StackMin/stackMin.go) | [stackMin_test.go](Chapter03-StacksAndQueues/3.2-StackMin/stackMin_test.go) |  ✓  |
 | 3.3 | [**Stack Of Plates**](Chapter03-StacksAndQueues/3.3-StackOfPlates/) | [stackOfPlates.go](Chapter03-StacksAndQueues/3.3-StackOfPlates/stackOfPlates.go) | [stackOfPlates_test.go](Chapter03-StacksAndQueues/3.3-StackOfPlates/stackOfPlates_test.go) |  ✓  |
 | 3.4 | [**Queue via Stacks**](Chapter03-StacksAndQueues/3.4-QueueViaStacks/) | queueViaStacks.go | queueViaStacks_test.go |  -  |
-| 3.5 | [**Sort Stack**](Chapter03-StacksAndQueues/3.5-SortStack/) | sortStack.go | sortStack_test.go |  -  |
+| 3.5 | [**Sort Stack**](Chapter03-StacksAndQueues/3.5-SortStack/) | [sortStack.go](Chapter03-StacksAndQueues/3.5-SortStack/sortStack.go) | [sortStack_test.go](Chapter03-StacksAndQueues/3.5-SortStack/sortStack_test.go) |  ✓  |
 | 3.6 | [**Animal Shelter**](Chapter03-StacksAndQueues/3.6-AnimalShelter/) | animalShelter.go | animalShelter_test.go |  -  |
 _________________
 ## [Chapter 04 - Trees and Graphs](Chapter04-TreesAndGraphs/)
