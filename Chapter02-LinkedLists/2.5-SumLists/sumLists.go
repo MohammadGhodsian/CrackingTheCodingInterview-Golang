@@ -2,7 +2,9 @@ package sum_lists
 
 /*
 Sum Lists
-You have two numbers represented by a linked list, where each node contains a single digit. The digits are stored in reverse order, such that the 1's digit is at the head of the list. Write a function that adds the two numbers and returns the sum as a linked list.
+You have two numbers represented by a linked list, where each node contains a single digit.
+The digits are stored in reverse order, such that the 1's digit is at the head of the list.
+Write a function that adds the two numbers and returns the sum as a linked list.
 EXAMPLE
 Input: (7->1->6) + (5->9->2).Thatis, 617 + 295.
 Output: 2->1->9.That is, 912.
@@ -15,32 +17,27 @@ Output: 9->1->2. That is, 912.
 import (
 	"CrackingTheCodingInterview/Chapter02-LinkedLists/LinkedList"
 	"fmt"
-	"math"
 )
 
 func SumListsReverseOrder(l1, l2 *LinkedList.ListNode) *LinkedList.ListNode {
-	num1 := listToNumberReverse(l1)
-	num2 := listToNumberReverse(l2)
-
-	sum := num1 + num2
-
+	num1 := listToNumberReverse(l1) // 7->1->6
+	num2 := listToNumberReverse(l2) // 5->9->2
+	sum := num1 + num2              // num1: 617, num2: 295, sum: 912
 	fmt.Printf(" SumListsReverseOrder ***** num1: %d, num2: %d, sum: %d\n", num1, num2, sum)
-	return numberToListReverse(sum)
+	return numberToListReverse(sum) // 2->1->9
 }
 
 // Helper function to convert linked list to number
-func listToNumberReverse(head *LinkedList.ListNode) int {
-	num := 0
+func listToNumberReverse(head *LinkedList.ListNode) (num int) {
 	factor := 1
 	for head != nil {
-		num += head.Value * factor
+		num += factor * head.Value
 		factor *= 10
 		head = head.Next
 	}
-	return num
+	return
 }
 
-// Helper function to convert number to linked list
 // Helper function to convert number to linked list in reverse order
 func numberToListReverse(num int) *LinkedList.ListNode {
 	if num == 0 {
@@ -64,25 +61,20 @@ func numberToListReverse(num int) *LinkedList.ListNode {
 }
 
 func SumListsForwardOrder(l1, l2 *LinkedList.ListNode) *LinkedList.ListNode {
-	num1 := listToNumberForward(l1)
-	num2 := listToNumberForward(l2)
-	sum := num1 + num2
+	num1, _ := listToNumberForward(l1) // 6->1->7
+	num2, _ := listToNumberForward(l2) // 2->9->5
+	sum := num1 + num2                 // num1: 617, num2: 295, sum: 912
 	fmt.Printf(" SumListsReverseOrder ***** num1: %d, num2: %d, sum: %d\n", num1, num2, sum)
-
-	return numberToListForward(sum)
+	return numberToListForward(sum) // 9->1->2
 }
 
 // Helper function to convert linked list to number (forward order)
-func listToNumberForward(head *LinkedList.ListNode) int {
-	num := 0
-	// First find the length of the list to determine the factor
-	length := head.Length()
-	for head != nil {
-		num += head.Value * int(math.Pow(10, float64(length-1)))
-		head = head.Next
-		length--
+func listToNumberForward(head *LinkedList.ListNode) (num, factor int) {
+	if head == nil {
+		return 0, 1
 	}
-	return num
+	num, factor = listToNumberForward(head.Next)
+	return head.Value*factor + num, factor * 10
 }
 
 // Helper function to convert number to linked list (forward order)
