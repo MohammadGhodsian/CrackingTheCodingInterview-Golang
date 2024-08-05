@@ -24,9 +24,9 @@ _________________
 | 2.3 | [**Delete Middle Node**](Chapter02-LinkedLists/2.3-DeleteMiddleNode/)           | [deleteMiddleNode.go](Chapter02-LinkedLists/2.3-DeleteMiddleNode/deleteMiddleNode.go)              | [deleteMiddleNode_test.go](Chapter02-LinkedLists/2.3-DeleteMiddleNode/deleteMiddleNode_test.go)              |  ✓  |
 | 2.4 | [**Partition**](Chapter02-LinkedLists/2.4-Partition/)           | [partition.go](Chapter02-LinkedLists/2.4-Partition/partition.go)              | [partition_test.go](Chapter02-LinkedLists/2.4-Partition/partition_test.go)              |  ✓  |
 | 2.5 | [**Sum Lists**](Chapter02-LinkedLists/2.5-SumLists/)           | [sumLists.go](Chapter02-LinkedLists/2.5-SumLists/sumLists.go)              | [sumLists_test.go](Chapter02-LinkedLists/2.5-SumLists/sumLists_test.go)              |  ✓  |
-| 2.6 | [**Palindrome**](Chapter02-LinkedLists/2.6-Palindrome/)           | palindrome.go              |palindrome_test.go              |  -  |
-| 2.7 | [**Intersection**](Chapter02-LinkedLists/2.7-Intersection/)           | intersection.go              |intersection_test.go              |  -  |
-| 2.8 | [**Loop Detection**](Chapter02-LinkedLists/2.8-LoopDetection/)           | loopDetection.go              | loopDetection_test.go              |  -  |
+| 2.6 | [**Palindrome**](Chapter02-LinkedLists/2.6-Palindrome/)           | [palindrome.go](Chapter02-LinkedLists/2.6-Palindrome/palindrome.go)              | [palindrome_test.go](Chapter02-LinkedLists/2.6-Palindrome/palindrome_test.go)              |  -  |
+| 2.7 | [**Intersection**](Chapter02-LinkedLists/2.7-Intersection/)           | [intersection.go](Chapter02-LinkedLists/2.7-Intersection/intersection.go)              | [intersection_test.go](Chapter02-LinkedLists/2.7-Intersection/intersection_test.go)              |  -  |
+| 2.8 | [**Loop Detection**](Chapter02-LinkedLists/2.8-LoopDetection/)           | [loopDetection.go](Chapter02-LinkedLists/2.8-LoopDetection/loopDetection.go)              | [loopDetection_test.go](Chapter02-LinkedLists/2.8-LoopDetection/loopDetection_test.go)              |  -  |
 _________________
 ## [Chapter 03 - Stacks and Queues](Chapter03-StacksAndQueues/)
 |  #  | **Question**               | Solution                 | Test                          | Done |
