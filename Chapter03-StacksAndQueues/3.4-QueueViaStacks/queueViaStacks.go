@@ -1,5 +1,10 @@
 package queue_via_stacks
 
+/*
+3.4 Queue via Stacks
+Implement a MyQueue class which implements a queue using two stacks.
+*/
+
 // MyQueue represents a queue implemented using two stacks
 type MyQueue struct {
 	stack1 *Stack
