@@ -5,6 +5,11 @@ import (
 	"fmt"
 )
 
+/*
+3.1 Three in One
+Describe how you could use a single array to implement three stacks.
+*/
+
 type stack struct {
 	size       int
 	startIndex int
