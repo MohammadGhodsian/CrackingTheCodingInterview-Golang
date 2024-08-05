@@ -24,14 +24,14 @@ _________________
 | 2.3 | [**Delete Middle Node**](Chapter02-LinkedLists/2.3-DeleteMiddleNode/)           | [deleteMiddleNode.go](Chapter02-LinkedLists/2.3-DeleteMiddleNode/deleteMiddleNode.go)              | [deleteMiddleNode_test.go](Chapter02-LinkedLists/2.3-DeleteMiddleNode/deleteMiddleNode_test.go)              |  ✓  |
 | 2.4 | [**Partition**](Chapter02-LinkedLists/2.4-Partition/)           | [partition.go](Chapter02-LinkedLists/2.4-Partition/partition.go)              | [partition_test.go](Chapter02-LinkedLists/2.4-Partition/partition_test.go)              |  ✓  |
 | 2.5 | [**Sum Lists**](Chapter02-LinkedLists/2.5-SumLists/)           | [sumLists.go](Chapter02-LinkedLists/2.5-SumLists/sumLists.go)              | [sumLists_test.go](Chapter02-LinkedLists/2.5-SumLists/sumLists_test.go)              |  ✓  |
-| 2.6 | [**Palindrome**](Chapter02-LinkedLists/2.6-Palindrome/)           | [palindrome.go](Chapter02-LinkedLists/2.6-Palindrome/palindrome.go)              | [palindrome_test.go](Chapter02-LinkedLists/2.6-Palindrome/palindrome_test.go)              |  -  |
-| 2.7 | [**Intersection**](Chapter02-LinkedLists/2.7-Intersection/)           | [intersection.go](Chapter02-LinkedLists/2.7-Intersection/intersection.go)              | [intersection_test.go](Chapter02-LinkedLists/2.7-Intersection/intersection_test.go)              |  -  |
-| 2.8 | [**Loop Detection**](Chapter02-LinkedLists/2.8-LoopDetection/)           | [loopDetection.go](Chapter02-LinkedLists/2.8-LoopDetection/loopDetection.go)              | [loopDetection_test.go](Chapter02-LinkedLists/2.8-LoopDetection/loopDetection_test.go)              |  -  |
+| 2.6 | [**Palindrome**](Chapter02-LinkedLists/2.6-Palindrome/)           | [palindrome.go](Chapter02-LinkedLists/2.6-Palindrome/palindrome.go)              | [palindrome_test.go](Chapter02-LinkedLists/2.6-Palindrome/palindrome_test.go)              |  ✓  |
+| 2.7 | [**Intersection**](Chapter02-LinkedLists/2.7-Intersection/)           | [intersection.go](Chapter02-LinkedLists/2.7-Intersection/intersection.go)              | [intersection_test.go](Chapter02-LinkedLists/2.7-Intersection/intersection_test.go)              |  ✓  |
+| 2.8 | [**Loop Detection**](Chapter02-LinkedLists/2.8-LoopDetection/)           | [loopDetection.go](Chapter02-LinkedLists/2.8-LoopDetection/loopDetection.go)              | [loopDetection_test.go](Chapter02-LinkedLists/2.8-LoopDetection/loopDetection_test.go)              |  ✓  |
 _________________
 ## [Chapter 03 - Stacks and Queues](Chapter03-StacksAndQueues/)
 |  #  | **Question**               | Solution                 | Test                          | Done |
 | --- | ------------------ | ------------------------ | ----------------------------- | ---- |
-| 3.1 | [**Three in One**](Chapter03-StacksAndQueues/3.1-ThreeInOne/) | threeInOne.go | threeInOne_test.go |  -  |
+| 3.1 | [**Three in One**](Chapter03-StacksAndQueues/3.1-ThreeInOne/) | [threeInOne.go](Chapter03-StacksAndQueues/3.1-ThreeInOne/threeInOne.go) | [threeInOne_test.go](Chapter03-StacksAndQueues/3.1-ThreeInOne/threeInOne_test.go) |  ✓  |
 | 3.2 | [**Stack Min**](Chapter03-StacksAndQueues/3.2-StackMin/) | stackMin.go | stackMin_test.go |  -  |
 | 3.3 | [**Stack Of Plates**](Chapter03-StacksAndQueues/3.3-StackOfPlates/) | stackOfPlates.go | stackOfPlates_test.go |  -  |
 | 3.4 | [**Queue via Stacks**](Chapter03-StacksAndQueues/3.4-QueueViaStacks/) | queueViaStacks.go | queueViaStacks_test.go |  -  |
