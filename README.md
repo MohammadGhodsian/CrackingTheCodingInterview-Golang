@@ -54,3 +54,15 @@ _________________
 | 4.11 | [**Random Node**](Chapter04-TreesAndGraphs/4.11-RandomNode/) | randomNode.go | randomNode_test.go |
 | 4.12 | [**Paths with Sum**](Chapter04-TreesAndGraphs/4.12-PathsWithSum/) | pathsWithSum.go | pathsWithSum_test.go |
 _________________
+## [Chapter 05 - Bit Manipulation](Chapter05-BitManipulation/)
+|  #  | **Question**               | Solution                 | Test                          |
+| --- | ------------------ | ------------------------ | ----------------------------- |
+| 5.1 | [**Insertion**](Chapter05-BitManipulation/5.1-Insertion/) | insertion.go | insertion_test.go |
+| 5.2 | [**Binary to String**](Chapter05-BitManipulation/5.2-BinaryToString/) | binaryToString.go | binaryToString_test.go |
+| 5.3 | [**Flip Bit to Win**](Chapter05-BitManipulation/5.3-FlipBitToWin/) | flipBitToWin.go | flipBitToWin_test.go |
+| 5.4 | [**Next Number**](Chapter05-BitManipulation/5.4-NextNumber/) | nextNumber.go | nextNumber_test.go |
+| 5.5 | [**Debugger**](Chapter05-BitManipulation/5.5-Debugger/) | debugger.go | debugger_test.go |
+| 5.6 | [**Conversion**](Chapter05-BitManipulation/5.6-Conversion/) | conversion.go | conversion_test.go |
+| 5.7 | [**Pairwise Swap**](Chapter05-BitManipulation/5.7-PairwiseSwap/) | pairwiseSwap.go | pairwiseSwap_test.go |
+| 5.8 | [**Draw Line**](Chapter05-BitManipulation/5.8-DrawLine/) | drawLine.go | drawLine_test.go |
+_________________
