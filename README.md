@@ -37,3 +37,20 @@ _________________
 | 3.4 | [**Queue via Stacks**](Chapter03-StacksAndQueues/3.4-QueueViaStacks/) | queueViaStacks.go | queueViaStacks_test.go |
 | 3.5 | [**Sort Stack**](Chapter03-StacksAndQueues/3.5-SortStack/) | sortStack.go | sortStack_test.go |
 | 3.6 | [**Animal Shelter**](Chapter03-StacksAndQueues/3.6-AnimalShelter/) | animalShelter.go | animalShelter_test.go |
+_________________
+## [Chapter 04 - Trees and Graphs](Chapter04-TreesAndGraphs/)
+|  #  | **Question**               | Solution                 | Test                          |
+| --- | ------------------ | ------------------------ | ----------------------------- |
+| 4.1 | [**Route Between Nodes**](Chapter04-TreesAndGraphs/4.1-RouteBetweenNodes/) | routeBetweenNodes.go | routeBetweenNodes_test.go |
+| 4.2 | [**Minimal Tree**](Chapter04-TreesAndGraphs/4.2-MinimalTree/) | minimalTree.go | minimalTree_test.go |
+| 4.3 | [**List of Depths**](Chapter04-TreesAndGraphs/4.3-ListOfDepths/) | listOfDepths.go | listOfDepths_test.go |
+| 4.4 | [**Check Balanced**](Chapter04-TreesAndGraphs/4.4-CheckBalanced/) | checkBalanced.go | checkBalanced_test.go |
+| 4.5 | [**Validate BST**](Chapter04-TreesAndGraphs/4.5-ValidateBST/) | validateBST.go | validateBST_test.go |
+| 4.6 | [**Successor**](Chapter04-TreesAndGraphs/4.6-Successor/) | successor.go | successor_test.go |
+| 4.7 | [**Build Order**](Chapter04-TreesAndGraphs/4.7-BuildOrder/) | buildOrder.go | buildOrder_test.go |
+| 4.8 | [**First Common Ancestor**](Chapter04-TreesAndGraphs/4.8-FirstCommonAncestor/) | firstCommonAncestor.go | firstCommonAncestor_test.go |
+| 4.9 | [**BST Sequences**](Chapter04-TreesAndGraphs/4.9-BSTSequences/) | bstSequences.go | bstSequences_test.go |
+| 4.10 | [**Check Subtree**](Chapter04-TreesAndGraphs/4.10-CheckSubtree/) | checkSubtree.go | checkSubtree_test.go |
+| 4.11 | [**Random Node**](Chapter04-TreesAndGraphs/4.11-RandomNode/) | randomNode.go | randomNode_test.go |
+| 4.12 | [**Paths with Sum**](Chapter04-TreesAndGraphs/4.12-PathsWithSum/) | pathsWithSum.go | pathsWithSum_test.go |
+_________________
