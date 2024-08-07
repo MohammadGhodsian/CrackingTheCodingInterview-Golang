@@ -6,3 +6,9 @@ You have an integer and you can flip exactly one bit from a 0 to a 1. Write code
 **Input:** 1775 (or: 11011101111)
 
 **Output:** 8
+
+
+
+`go test -v`
+
+![Test Result](_testResult.png)
