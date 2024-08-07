@@ -58,7 +58,7 @@ _________________
 |  #  | **Question**               | Solution                 | Test                          | Done |
 | --- | ------------------ | ------------------------ | ----------------------------- | ---- |
 | 5.1 | [**Insertion**](Chapter05-BitManipulation/5.1-Insertion/) | [insertion.go](Chapter05-BitManipulation/5.1-Insertion/insertion.go) | [insertion_test.go](Chapter05-BitManipulation/5.1-Insertion/insertion_test.go) |  ✓  |
-| 5.2 | [**Binary to String**](Chapter05-BitManipulation/5.2-BinaryToString/) | binaryToString.go | binaryToString_test.go |  -  |
+| 5.2 | [**Binary to String**](Chapter05-BitManipulation/5.2-BinaryToString/) | [binaryToString.go](Chapter05-BitManipulation/5.2-BinaryToString/binaryToString.go) | [binaryToString_test.go](Chapter05-BitManipulation/5.2-BinaryToString/binaryToString_test.go) |  ✓  |
 | 5.3 | [**Flip Bit to Win**](Chapter05-BitManipulation/5.3-FlipBitToWin/) | flipBitToWin.go | flipBitToWin_test.go |  -  |
 | 5.4 | [**Next Number**](Chapter05-BitManipulation/5.4-NextNumber/) | nextNumber.go | nextNumber_test.go |  -  |
 | 5.5 | [**Debugger**](Chapter05-BitManipulation/5.5-Debugger/) | debugger.go | debugger_test.go |  -  |
