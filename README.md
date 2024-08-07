@@ -63,6 +63,6 @@ _________________
 | 5.4 | [**Next Number**](Chapter05-BitManipulation/5.4-NextNumber/) | nextNumber.go | nextNumber_test.go |  -  |
 | 5.5 | [**Debugger**](Chapter05-BitManipulation/5.5-Debugger/) | [debugger.go](Chapter05-BitManipulation/5.5-Debugger/debugger.go) | [debugger_test.go](Chapter05-BitManipulation/5.5-Debugger/debugger_test.go) |  ✓  |
 | 5.6 | [**Conversion**](Chapter05-BitManipulation/5.6-Conversion/) | [conversion.go](Chapter05-BitManipulation/5.6-Conversion/conversion.go) | [conversion_test.go](Chapter05-BitManipulation/5.6-Conversion/conversion_test.go) |  ✓  |
-| 5.7 | [**Pairwise Swap**](Chapter05-BitManipulation/5.7-PairwiseSwap/) | pairwiseSwap.go | pairwiseSwap_test.go |  -  |
+| 5.7 | [**Pairwise Swap**](Chapter05-BitManipulation/5.7-PairwiseSwap/) | [pairwiseSwap.go](Chapter05-BitManipulation/5.7-PairwiseSwap/pairwiseSwap.go) | [pairwiseSwap_test.go](Chapter05-BitManipulation/5.7-PairwiseSwap/pairwiseSwap_test.go) |  ✓  |
 | 5.8 | [**Draw Line**](Chapter05-BitManipulation/5.8-DrawLine/) | drawLine.go | drawLine_test.go |  -  |
 _________________
