@@ -46,7 +46,7 @@ _________________
 | 4.3 | [**List of Depths**](Chapter04-TreesAndGraphs/4.3-ListOfDepths/) | [listOfDepths.go](Chapter04-TreesAndGraphs/4.3-ListOfDepths/listOfDepths.go) | [listOfDepths_test.go](Chapter04-TreesAndGraphs/4.3-ListOfDepths/listOfDepths_test.go) |  ✓  |
 | 4.4 | [**Check Balanced**](Chapter04-TreesAndGraphs/4.4-CheckBalanced/) | [checkBalanced.go](Chapter04-TreesAndGraphs/4.4-CheckBalanced/checkBalanced.go) | [checkBalanced_test.go](Chapter04-TreesAndGraphs/4.4-CheckBalanced/checkBalanced_test.go) |  ✓  |
 | 4.5 | [**Validate BST**](Chapter04-TreesAndGraphs/4.5-ValidateBST/) | [validateBST.go](Chapter04-TreesAndGraphs/4.5-ValidateBST/validateBST.go) | [validateBST_test.go](Chapter04-TreesAndGraphs/4.5-ValidateBST/validateBST_test.go) |  ✓  |
-| 4.6 | [**Successor**](Chapter04-TreesAndGraphs/4.6-Successor/) | successor.go | successor_test.go |  -  |
+| 4.6 | [**Successor**](Chapter04-TreesAndGraphs/4.6-Successor/) | [successor.go](Chapter04-TreesAndGraphs/4.6-Successor/successor.go) | [successor_test.go](Chapter04-TreesAndGraphs/4.6-Successor/successor_test.go) |  ✓  |
 | 4.7 | [**Build Order**](Chapter04-TreesAndGraphs/4.7-BuildOrder/) | buildOrder.go | buildOrder_test.go |  -  |
 | 4.8 | [**First Common Ancestor**](Chapter04-TreesAndGraphs/4.8-FirstCommonAncestor/) | firstCommonAncestor.go | firstCommonAncestor_test.go |  -  |
 | 4.9 | [**BST Sequences**](Chapter04-TreesAndGraphs/4.9-BSTSequences/) | bstSequences.go | bstSequences_test.go |  -  |
