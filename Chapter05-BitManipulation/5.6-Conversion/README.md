@@ -1,8 +1,13 @@
 ### 5.6 Conversion
 Write a function to determine the number of bits you would need to flip to convert integer A to integer B.
 
-**EXAMPLE**
+#### EXAMPLE
 
 **Input:** 29 (or: 11101), 15 (or: 01111)
 
 **Output:** 2
+
+
+`go test -v`
+
+![Test Result](_testResult.png)
