@@ -25,7 +25,6 @@ func (n *Node) FindSuccessor() *Node {
 		}
 		return s
 	}
-
 	// Case 2: Node does not have a right child
 	// Traverse up using the parent pointers to find the successor
 	current := n       // Start with the current node

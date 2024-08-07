@@ -18,7 +18,6 @@ func constructBST() *Node {
 	root.Left.Right.Left = &Node{Val: 13, Parent: root.Left.Right}
 	root.Left.Right.Left.Left = &Node{Val: 14, Parent: root.Left.Right.Left}
 	root.Left.Right.Right = &Node{Val: 17, Parent: root.Left.Right}
-
 	return root
 }
 
