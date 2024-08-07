@@ -6,3 +6,10 @@ You are given two 32-bit numbers, N and M, and two bit positions, i and j. Write
 **Input:** N = 10000000000, M = 10011, i = 2, j = 6
 
 **Output:** N = 10001001100
+
+
+
+
+`go test -v`
+
+![Test Result](_testResult.png)
