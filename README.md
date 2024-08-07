@@ -41,8 +41,8 @@ _________________
 ## [Chapter 04 - Trees and Graphs](Chapter04-TreesAndGraphs/)
 |  #  | **Question**               | Solution                 | Test                          | Done |
 | --- | ------------------ | ------------------------ | ----------------------------- | ---- |
-| 4.1 | [**Route Between Nodes**](Chapter04-TreesAndGraphs/4.1-RouteBetweenNodes/) | routeBetweenNodes.go | routeBetweenNodes_test.go |  -  |
-| 4.2 | [**Minimal Tree**](Chapter04-TreesAndGraphs/4.2-MinimalTree/) | [minimalTree.go](Chapter04-TreesAndGraphs/4.2-MinimalTree/minimalTree.go) | [minimalTree_test.go](Chapter04-TreesAndGraphs/4.2-MinimalTree/minimalTree_test.go) |  -  |
+| 4.1 | [**Route Between Nodes**](Chapter04-TreesAndGraphs/4.1-RouteBetweenNodes/) | [routeBetweenNodes.go](Chapter04-TreesAndGraphs/4.1-RouteBetweenNodes/routeBetweenNodes.go) | [routeBetweenNodes_test.go](Chapter04-TreesAndGraphs/4.1-RouteBetweenNodes/routeBetweenNodes_test.go) |  ✓  |
+| 4.2 | [**Minimal Tree**](Chapter04-TreesAndGraphs/4.2-MinimalTree/) | [minimalTree.go](Chapter04-TreesAndGraphs/4.2-MinimalTree/minimalTree.go) | [minimalTree_test.go](Chapter04-TreesAndGraphs/4.2-MinimalTree/minimalTree_test.go) |  ✓  |
 | 4.3 | [**List of Depths**](Chapter04-TreesAndGraphs/4.3-ListOfDepths/) | listOfDepths.go | listOfDepths_test.go |  -  |
 | 4.4 | [**Check Balanced**](Chapter04-TreesAndGraphs/4.4-CheckBalanced/) | checkBalanced.go | checkBalanced_test.go |  -  |
 | 4.5 | [**Validate BST**](Chapter04-TreesAndGraphs/4.5-ValidateBST/) | validateBST.go | validateBST_test.go |  -  |
