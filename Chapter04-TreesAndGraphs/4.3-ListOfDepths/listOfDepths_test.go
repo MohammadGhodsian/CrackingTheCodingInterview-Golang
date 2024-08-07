@@ -5,10 +5,10 @@ import (
 	"testing"
 )
 
-// Helper function to convert node list to values
-func nodeListToValues(nodes []*TreeNode) []int {
+// Helper function to convert linked list to values
+func linkedListToValues(head *ListNode) []int {
 	values := []int{}
-	for _, node := range nodes {
+	for node := head; node != nil; node = node.Next {
 		values = append(values, node.Val)
 	}
 	return values
@@ -103,8 +103,8 @@ func TestListOfDepths(t *testing.T) {
 			t.Logf("Running test: %s\n", tt.name)
 			got := tt.root.ListOfDepths()
 			gotMap := make(map[int][]int)
-			for depth, nodes := range got {
-				gotMap[depth] = nodeListToValues(nodes)
+			for depth, list := range got {
+				gotMap[depth] = linkedListToValues(list)
 			}
 
 			// Log the results
